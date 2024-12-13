@@ -1,5 +1,5 @@
 # Learning_Javasript
-**JavaScript Learning Repository**
+# **JavaScript Learning Repository**
 Welcome to my JavaScript Learning Repository! 🎉 This repository is a collection of hands-on exercises, projects, and concepts that I’ve explored while learning JavaScript. It’s designed to serve as both a personal knowledge base and a resource for anyone looking to dive into JavaScript development.
 
 What You'll Find Here
