@@ -4,7 +4,7 @@ if (true) {
     let a = 10        // block scope
     const b = 20
     // console.log("INNER: ", a);
-    
+
 }
 
 
@@ -14,16 +14,16 @@ if (true) {
 // console.log(c);
 
 
-function one(){
+function one() {
     const username = "hitesh"
 
-    function two(){
+    function two() {
         const website = "youtube"
         console.log(username);
     }
     // console.log(website);
 
-     two()
+    two()
 
 }
 
@@ -44,15 +44,61 @@ if (true) {
 // ++++++++++++++++++ interesting ++++++++++++++++++
 
 
-console.log(addone(5))
+// console.log(addone(5))
 
-function addone(num){
-    return num + 1
+// function addone(num){
+//     return num + 1
+// }
+
+
+
+// addTwo(5)
+// const addTwo = function(num){
+//     return num + 2
+// }
+
+
+function one() {
+    const username = "SID"
+
+    function two() {
+        const website = "TraillX"
+
+        console.log(username);
+
+    }
+   
+    
+    console.log(website);
+
+    two()
 }
 
+// one()
 
 
-addTwo(5)
+
+
+//*******************************************************************************************/
+
+if (true) {
+    const username = "SIDD"
+     if (true) {
+        const website = "  Margdarshak"
+    console.log(username + website); 
+    }
+    // console.log(website);
+}
+// console.log(username);
+
+
+
+function addOne (num){
+        return num + 1;
+}
+console.log(addOne(5));
+
 const addTwo = function(num){
-    return num + 2
+    return num +2;
 }
+console.log(addTwo(5));
